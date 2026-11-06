@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/businho/pytest-ruff/commit/eb815de1fc32dc98d538f7475f3a4dbb22913a8d",
       "git:hexsha": "eb815de1fc32dc98d538f7475f3a4dbb22913a8d",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.5"
     },
     {
