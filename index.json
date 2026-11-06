@@ -1,0 +1,11 @@
+{
+  "org": "businho",
+  "repo": "pytest-ruff",
+  "versions": [
+    {
+      "commit": "eb815de1fc32dc98d538f7475f3a4dbb22913a8d",
+      "tag": "v0.5",
+      "parsed_at": "2026-11-06T02:13:22.411944+00:00"
+    }
+  ]
+}
