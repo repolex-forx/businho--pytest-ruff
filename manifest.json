@@ -1,0 +1,37 @@
+{
+  "manifest_version": "1.0",
+  "org": "businho",
+  "repo": "pytest-ruff",
+  "versions": [
+    {
+      "commit": "eb815de1fc32dc98d538f7475f3a4dbb22913a8d",
+      "parsed_at": "2026-11-06T02:10:49.583763+00:00",
+      "tag": "v0.5",
+      "filetree": "filetree/eb815de1fc32dc98d538f7475f3a4dbb22913a8d.nq.gz",
+      "blobs": [
+        "blob/ab9f839f006ff2700cadda325646b85e520eb440.nq.gz",
+        "blob/bf100e0c4d4c674532c28bfa5e1b183fd41d9282.nq.gz",
+        "blob/fd12abc09944533b51000ff38b2a2fafa891ff97.nq.gz",
+        "blob/d73ed1e82bffacb1e92e73390e11725ba24c141e.nq.gz",
+        "blob/235d42fdd11be48dc984ee54c230467ad00dc6aa.nq.gz",
+        "blob/a3b235f365d75cbc4c4ff1671a91ff963c648e86.nq.gz",
+        "blob/21b405d8c2dac873e9063b1dff87e46c3876aa58.nq.gz",
+        "blob/31eb0e478e22fdaeb365ff05c5425998059531a8.nq.gz",
+        "blob/b937ba6ac58279d3478a680b3cb7c1db28838731.nq.gz",
+        "blob/f8a6f7cee41cb6c4686230a437f5cc893a854e6d.nq.gz",
+        "blob/dcf7f74bac3665031897bac8ef9a21f14cd7d8c9.nq.gz",
+        "blob/0ed13cf1822af57f59a0463e704319cb283a4f54.nq.gz",
+        "blob/bc6429c31164024f65d6ca9e8d3fa2f4ea0e694a.nq.gz",
+        "blob/1c439c7881862be161c36af5709683eda553c42b.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/efee0ea3731fb6f1041aa30f76f1bc3cb2748ef2.nq.gz",
+        "blob/25ab8847adef08dc37402fa36fac8eed5029ca98.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
