@@ -38,6 +38,8 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   ├── ast
 │   │   └── eb815de1fc32dc98d538f7475f3a4dbb22913a8d
 │   │       └── chunk-001.nq.gz
+│   ├── lsp
+│   │   └── eb815de1fc32dc98d538f7475f3a4dbb22913a8d.nq.gz
 │   └── repolex
 │       └── eb815de1fc32dc98d538f7475f3a4dbb22913a8d
 │           └── chunk-001.nq.gz
@@ -72,7 +74,7 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 └── tag
     └── tag.nq.gz
 
-13 directories, 25 files
+14 directories, 26 files
 ```
 
 | Directory | What it contains |
@@ -93,4 +95,4 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 [businho/pytest-ruff](https://github.com/businho/pytest-ruff)
 
 ---
-*Parsed on 2026-11-06 by [repolex](https://repolex.ai)*
+*Parsed on 2026-11-22 by [repolex](https://repolex.ai)*
